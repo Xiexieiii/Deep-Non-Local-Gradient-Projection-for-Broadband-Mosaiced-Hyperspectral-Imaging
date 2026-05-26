@@ -1,5 +1,7 @@
 # Deep Non-Local Gradient Projection for Broadband Mosaiced Hyperspectral Imaging
 
+Official implementation of the paper **Deep Non-Local Gradient Projection for Broadband Mosaiced Hyperspectral Imaging**.
+
 ## Contact
 
 For questions about the paper or code, please contact:
